@@ -1,13 +1,11 @@
 <div align="center">
-  <img src="https://overvac.com/og.png" alt="Overvac" width="640" />
 
-  <p><strong>Custom business systems for companies that have outgrown generic tools.</strong></p>
+# Overvac
 
-  <p>
-    <a href="https://overvac.com">overvac.com</a>
-    ·
-    <a href="mailto:info@overvac.com">info@overvac.com</a>
-  </p>
+**Custom business systems for companies that have outgrown generic tools.**
+
+[overvac.com](https://overvac.com) · [info@overvac.com](mailto:info@overvac.com)
+
 </div>
 
 ---
