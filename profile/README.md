@@ -28,5 +28,7 @@ tools move to a single, cohesive system built for them.
 
 ### Get in touch
 
-- **Web** — [overvac.com](https://overvac.com)
-- **Email** — [info@overvac.com](mailto:info@overvac.com)
+<a href="https://overvac.com"><img src="https://img.shields.io/badge/Website-e84c3d?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<a href="mailto:info@overvac.com"><img src="https://img.shields.io/badge/Email-e84c3d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://linkedin.com/company/overvac"><img src="https://img.shields.io/badge/LinkedIn-e84c3d?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://x.com/overvac"><img src="https://img.shields.io/badge/X-e84c3d?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
