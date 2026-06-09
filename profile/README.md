@@ -1,6 +1,6 @@
 <div align="center">
 
-# Overvac
+# OVERVAC
 
 **Custom business systems for companies that have outgrown generic tools.**
 
