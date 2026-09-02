@@ -4,7 +4,7 @@
 
 **Creative technology — custom software and the web experiences around it.**
 
-[overvac.com](https://overvac.com) · [info@overvac.com](mailto:info@overvac.com) · Kaštel Novi, Croatia
+[overvac.com](https://overvac.com) · [info@overvac.com](mailto:info@overvac.com)
 
 </div>
 
@@ -26,18 +26,6 @@ than the other way round.
 direction, thoughtful interaction and solid engineering. From focused business
 sites to immersive, animated and real-time 3D experiences, everything built
 in-house from concept to launch.
-
-### Selected work
-
-| Project | Built with |
-|---|---|
-| [Bedrock](https://bedrock.overvac.com) | Vite, TypeScript, GSAP, Lenis |
-| [Apartman Mirna](https://apartman-mirna.com) | Vite, TypeScript, GSAP, Lenis |
-| [Loreto Pizza](https://loreto.overvac.com) | Vite, GSAP, Lenis, Blender |
-| [Silent Skill](https://silentskill.co) | Three.js, WebGL, GSAP, Vite |
-| [Statua](https://statua.overvac.com) | Three.js, WebGL, GSAP, Vite |
-
-All five are live at [overvac.com/projects](https://overvac.com/projects/).
 
 ### Get in touch
 
