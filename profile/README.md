@@ -22,7 +22,7 @@ actually works. From focused tools to full-scale systems, designed around your
 goals and processes rather than the other way round.
 
 **[App development](https://overvac.com/app-development/)** — web apps, native and
-cross-platform mobile apps for iOS and Android, and browser games. Clear interfaces
+cross-platform mobile apps for iOS and Android, and web games. Clear interfaces
 and fluid interactions, shaped around the people who use them.
 
 **[Web design and development](https://overvac.com/web-design/)** — websites and
